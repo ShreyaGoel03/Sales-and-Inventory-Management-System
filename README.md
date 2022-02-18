@@ -52,7 +52,7 @@ transactions done by the customers for a specific period by entering the start a
 
 ## Databases
 The tables created and used in MySQL Databases are:<br/><br/>
-<b>1. Login Table</b>:This table stores the username, name, password and the type of user whether admin or salesman. The passwords are stored in an excrypted format. The details of the user during signup is stored over here.<br/>
+<b>1. Login Table</b>: This table stores the username, name, password and the type of user whether admin or salesman. The passwords are stored in an excrypted format. The details of the user during signup is stored over here.<br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765442-1a5f00dd-ca62-4879-aa2f-900fc2026481.png" width = 40% height = 40%></p>
 
@@ -60,11 +60,11 @@ The tables created and used in MySQL Databases are:<br/><br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765591-8b5d1fd8-5299-4bf2-b716-5409717d49c3.png" width = 40% height = 40%></p>
   
-<b>3. Pending Items Table</b>:The orders of the list of items placed before and yet to be delivered are stored here.<br/>
+<b>3. Pending Items Table</b>: The orders of the list of items placed before and yet to be delivered are stored here.<br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765600-a066f292-1c19-4026-b52b-8a4f15bb0ea4.png" width = 40% height = 40%></p>
   
-<b>4. Inventory Report Table</b>:The transactions of the items(addition of a new item, adding items in stock and selling of items) that have taken place in the store is stored here to generate the inventory report. <br/>
+<b>4. Inventory Report Table</b>: The transactions of the items(addition of a new item, adding items in stock and selling of items) that have taken place in the store is stored here to generate the inventory report. <br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765617-2354f6f5-a88a-4e16-815e-37224ebb2fe1.png" width = 40% height = 40%></p>
   
@@ -72,7 +72,7 @@ The tables created and used in MySQL Databases are:<br/><br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765647-e9757f83-c12d-4bc2-b663-f26bcf91f87f.png" width = 40% height = 40%></p>
   
-<b>6. Sales Report Table</b>:Sales which is the total amount of the items bought by each customer are stored here. <br/>
+<b>6. Sales Report Table</b>: Sales which is the total amount of the items bought by each customer are stored here. <br/>
 <p float = "center">
 <img src = "https://user-images.githubusercontent.com/43794593/154765676-e9dbd206-b9b4-4adb-8916-c953d7ea5d4f.png" width = 40% height = 40%></p>
 
